@@ -1,5 +1,5 @@
 # Emojify
-Turn your face into an emoji.
+Turn your facial expression into an emoji.
 
 ## Note
 This project is still under development. Expect errors in recognition of emoji or other errors.
