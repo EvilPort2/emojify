@@ -99,4 +99,4 @@ If you want to contribute to the dataset then please make a pull request. I will
 If you can optimize the code then feel free to inform me.
 
 ## How to cite
-Saha, D.. (2018, May 9). emojify (Version 1). figshare. https://doi.org/10.6084/m9.figshare.6241934.v1Turn your facial expression into an emoji
+Saha, D.. (2018, May 9). emojify (Version 1). figshare. https://doi.org/10.6084/m9.figshare.6241934.v1. Turn your facial expression into an emoji
